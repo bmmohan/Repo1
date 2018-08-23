@@ -1,10 +1,1 @@
- Volume in drive C is Local Disk
- Volume Serial Number is 6E41-3EA9
-
- Directory of C:\Users\admin\Desktop\myGit
-
-23-Aug-18  10:50 PM    <DIR>          .
-23-Aug-18  10:50 PM    <DIR>          ..
-23-Aug-18  10:50 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  24,125,456,384 bytes free
+mohan selenium
